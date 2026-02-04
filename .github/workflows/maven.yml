@@ -18,9 +18,6 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      dependency-graph: write
 
     steps:
     - uses: actions/checkout@v4
