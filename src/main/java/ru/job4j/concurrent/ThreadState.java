@@ -1,6 +1,5 @@
 package ru.job4j.concurrent;
 
-import java.util.concurrent.TransferQueue;
 
 public class ThreadState {
     public static void main(String[] args) {
